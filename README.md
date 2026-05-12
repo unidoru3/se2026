@@ -12,5 +12,5 @@
 se2026/
 |-- README.md          このファイル
 |-- chia_sensei/       参考フォルダ
-`-- your_name/　  学生用 
+`-- your_name/　       学生用 
 ```
